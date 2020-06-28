@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "clang-x86",
+            "forcedInclude": [
+                "C:\\Users\\Danny\\Documents\\SNHU\\20EW5\\CS 260\\Module 4\\Lab4-2\\CSVparser.hpp",
+                "C:\\Users\\Danny\\Documents\\SNHU\\20EW5\\CS 260\\Module 4\\Lab4-2\\CSVparser.cpp"
+            ],
+            "browse": {
+                "path": [
+                    "C:\\Users\\Danny\\Documents\\SNHU\\20EW5\\CS 260\\Module 4\\"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
