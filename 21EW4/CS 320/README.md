@@ -1,5 +1,7 @@
-###### Project 1 >> Module 6
-###### Project 2 >> Module 7
+#### Project 1
+  - Module 6
+#### Project 2
+  - Module 7
 
 - How can I ensure that my code, program, or software is functional and secure?
   - Testing is the purpose of this. In this course we used JUnit to test small Java programs. To ensure that my program was both functional and secure I made heavy use of JUnit’s highlighting system and ensured that each of my programs have 90%+ coverage.
