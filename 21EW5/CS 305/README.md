@@ -1,0 +1,14 @@
+# Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+ - Artemis Financial was a financial company looking to more effectively do business online through implementing a RESTful API. Their scenario required me to address any security flaws in the design of the system or in the code itself.
+# What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+ - While we did both a manual review as well as static testing, I feel that I did a good job during the manual review. There were many bugs in the code that could have left Artemis vulnerable. It's important to code securely so data or systems are not compromised. Maintaining secure codebases lends credence to a company wanting an image of integrity.
+# What about the process of working through the vulnerability assessment did you find challenging or helpful?
+ - Static testing was a little bit challenging. Not so much in running the tests, but getting it set up. I used two different static testing suites. Dependency Check for Maven was my favorite as no extra plugins were required.
+# How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+ - I think it is best to use a multi-step approach like we did in this class. Improving security requires both static testing and code review. It is also important to remember to check everywhere for vulnerabilities. The Vulnerabilty flow chart found in this class can be helpful here.
+# How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+ - After refactoring the code, it's important to do more testing to ensure that vulnerabilities were not missed and that your refactor is behaving as expected.
+# What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+ - Dependency Check for Maven will be very helpful in the future of this class and in my employement. 
+# Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+ - Static testing was completely new for me, but I think that it is crucially important to understand and make use of. A good team of software developers that I may work with in the future will understand this as well.
